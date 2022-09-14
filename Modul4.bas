@@ -1,8 +1,6 @@
 Attribute VB_Name = "Modul4"
 '************ Code Start **********
 ' This code was originally written by Dev Ashish.
-' It is not to be altered or distributed,
-' except as part of an application.
 ' You are free to use it in any application,
 ' provided the copyright notice is left unchanged.
 '
